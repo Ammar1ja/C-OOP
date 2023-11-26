@@ -1,0 +1,14 @@
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\bin\Debug\net8.0\OOP-Methods.exe
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\bin\Debug\net8.0\OOP-Methods.deps.json
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\bin\Debug\net8.0\OOP-Methods.runtimeconfig.json
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\bin\Debug\net8.0\OOP-Methods.dll
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\bin\Debug\net8.0\OOP-Methods.pdb
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.AssemblyInfoInputs.cache
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.AssemblyInfo.cs
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.dll
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\refint\OOP-Methods.dll
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.pdb
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\OOP-Methods.genruntimeconfig.cache
+C:\Users\Ammar\source\repos\OOP-Methods\OOP-Methods\obj\Debug\net8.0\ref\OOP-Methods.dll
